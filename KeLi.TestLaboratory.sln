@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.ConsoleApp", "KeLi.TestLaboratory.ConsoleApp\KeLi.TestLaboratory.ConsoleApp.csproj", "{72A20B46-1FAA-40CA-B8D4-861324D51BB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.WpfApp", "KeLi.TestLaboratory.WpfApp\KeLi.TestLaboratory.WpfApp.csproj", "{625279E2-AEE6-4F91-BD18-6CFA132696B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.RevitPlugin", "KeLi.TestLaboratory.RevitPlugin\KeLi.TestLaboratory.RevitPlugin.csproj", "{B95DF112-B754-474F-970C-45D205139643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.FormApp", "KeLi.TestLaboratory.FormApp\KeLi.TestLaboratory.FormApp.csproj", "{7B3D00F2-3530-4DA9-AE0E-3388B3460868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A20B46-1FAA-40CA-B8D4-861324D51BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A20B46-1FAA-40CA-B8D4-861324D51BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A20B46-1FAA-40CA-B8D4-861324D51BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A20B46-1FAA-40CA-B8D4-861324D51BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625279E2-AEE6-4F91-BD18-6CFA132696B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625279E2-AEE6-4F91-BD18-6CFA132696B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625279E2-AEE6-4F91-BD18-6CFA132696B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625279E2-AEE6-4F91-BD18-6CFA132696B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95DF112-B754-474F-970C-45D205139643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95DF112-B754-474F-970C-45D205139643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95DF112-B754-474F-970C-45D205139643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95DF112-B754-474F-970C-45D205139643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB936C8-2DC4-473F-A938-5B528B7B0181}
+	EndGlobalSection
+EndGlobal
