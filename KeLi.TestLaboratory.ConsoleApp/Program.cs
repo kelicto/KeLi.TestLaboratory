@@ -1,4 +1,6 @@
-﻿namespace KeLi.TestLaboratory.ConsoleApp
+﻿using System;
+
+namespace KeLi.TestLaboratory.ConsoleApp
 {
     internal class Program
     {
