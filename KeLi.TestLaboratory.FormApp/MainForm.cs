@@ -2,9 +2,9 @@
 
 namespace KeLi.TestLaboratory.FormApp
 {
-    public partial class MainFrm : Form
+    public partial class MainForm : Form
     {
-        public MainFrm()
+        public MainForm()
         {
             InitializeComponent();
         }
