@@ -1,7 +1,7 @@
 ﻿
 namespace KeLi.TestLaboratory.FormApp
 {
-    partial class MainFrm
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
