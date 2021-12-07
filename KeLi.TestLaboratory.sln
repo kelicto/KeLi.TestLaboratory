@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.RevitPl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.FormApp", "KeLi.TestLaboratory.FormApp\KeLi.TestLaboratory.FormApp.csproj", "{7B3D00F2-3530-4DA9-AE0E-3388B3460868}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.TestLaboratory.Library", "KeLi.TestLaboratory.Library\KeLi.TestLaboratory.Library.csproj", "{078AF730-125E-46C6-80B2-7B719CF8ADB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3D00F2-3530-4DA9-AE0E-3388B3460868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078AF730-125E-46C6-80B2-7B719CF8ADB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078AF730-125E-46C6-80B2-7B719CF8ADB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078AF730-125E-46C6-80B2-7B719CF8ADB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078AF730-125E-46C6-80B2-7B719CF8ADB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
